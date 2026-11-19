@@ -1,0 +1,5 @@
+Cluster,Status,Evidence,MarketingObjective
+0,Inactive / Declining,"High recency, low frequency and monetary value, strongly negative trends",Reactivation
+1,Established Active,Established customers with moderate frequency/value and positive behavioral trends,Retention and relationship growth
+2,New / Recently Acquired,"NewCustomer=1, short lifespan, low-to-moderate initial frequency/value",Onboarding and second-purchase conversion
+3,Very High-Value Active,"Very high frequency, monetary value, product diversity and recent activity",Retention and high-value relationship development

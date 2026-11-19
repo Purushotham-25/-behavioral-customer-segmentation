@@ -1,0 +1,5 @@
+Cluster,Status,CustomerBehavior,MarketingObjective,RecommendedAction,PrimaryKPI
+0,Inactive / Declining,"Long time since purchase, low activity and strongly negative recent trends",Reactivation,Win-back campaign with personalized offers based on previous purchases,Reactivation / repeat-purchase rate
+1,Established Active,Established customers with moderate purchasing activity and positive trends,Retention and relationship growth,"Cross-sell, product recommendations and loyalty-oriented offers",Repeat-purchase rate and customer value
+2,New / Recently Acquired,Recently acquired customers with short customer lifespan and limited purchase history,Onboarding and second-purchase conversion,"Welcome journey, product discovery recommendations and second-purchase incentive",Second-purchase conversion rate
+3,Very High-Value Active,"Very high purchase frequency, monetary value, product diversity and recent activity",Retention and high-value relationship development,"Personalized premium recommendations, loyalty benefits and early-access offers",Retention rate and customer value

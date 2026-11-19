@@ -1,0 +1,13 @@
+Model,Metric,BestK,Value
+KMeans,Lowest mean SSE,10,13824.531432601701
+KMeans,Highest mean Silhouette,2,0.3121179807264747
+KMeans,Lowest mean Davies-Bouldin,7,1.1291641987673104
+KMeans,Highest mean Calinski-Harabasz,2,2160.501389426708
+QLDE,Lowest mean SSE,10,15849.17300848859
+QLDE,Highest mean Silhouette,2,0.31215034812688847
+QLDE,Lowest mean Davies-Bouldin,6,1.1790411566252774
+QLDE,Highest mean Calinski-Harabasz,2,2160.4884721216513
+QLDE_KMeans,Lowest mean SSE,10,13887.35736319476
+QLDE_KMeans,Highest mean Silhouette,2,0.3121529488492741
+QLDE_KMeans,Lowest mean Davies-Bouldin,6,1.1598496501450746
+QLDE_KMeans,Highest mean Calinski-Harabasz,2,2160.5005182990644
